@@ -30,3 +30,16 @@
 - Add live topic page workflow.
 - Add reusable output workflow.
 - Add review and quality gates.
+
+## Deferred Control Layer Improvements
+
+- Differentiated role cards.
+- Source Documents Index template.
+- Topic Cluster Map template.
+- Live Topic Page template.
+- Drive ingestion quality gate.
+- Topic readiness quality gate.
+- Instruction update quality gate.
+- Handoff completeness template.
+- Locked decisions migration.
+- Client language bank migration.

@@ -28,6 +28,16 @@ Do not store client documents, source PDFs, decks, spreadsheets, exports, creden
 - When uncertain, produce a review note rather than silently changing the system.
 - Maintain a clear distinction between source material, working notes, approved decisions, and reusable outputs.
 
+## Codex Safety Protocol
+
+- Run `git status` before making changes.
+- Do not commit unless explicitly instructed.
+- Do not touch Google Drive files unless the user explicitly asks.
+- Do not move, rename, delete, or reorganize Drive files unless explicitly approved.
+- Never track or expose `config/local.paths.md`, credentials, secrets, client files, exports, or bulky assets.
+- Prefer review reports before edits when scope is unclear.
+- Stop and ask for review if instructions conflict.
+
 ## Commit Discipline
 
 Use clear commit messages such as:
