@@ -1,4 +1,4 @@
-# Local Paths Example
+	# Local Paths Example
 
 Copy this file and rename the copy to:
 
